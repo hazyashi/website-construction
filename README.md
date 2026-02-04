@@ -1,0 +1,1 @@
+hosting the website on nekoweb at https://ashi.nekoweb.org/ , Im using this github repo for things like backing up the html and css and uploading images i use on the site. I couldve hosted on github pages, but nekoweb is sillier and has cats. This website is just a personal project and im probably never gonna finish it.
